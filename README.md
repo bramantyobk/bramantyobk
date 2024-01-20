@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bramantyo Bayu Kusumo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bramantyo Kusumo
 =============================================================================================================================================
 
 Front-end Developer
@@ -6,7 +6,7 @@ Front-end Developer
 
 I'm eager to learn about front-end development
 
-* 🌍  I'm based in Klaten, Indonesia
+* 🌍  I'm based in Central Java, Indonesia
 * 🧠  I'm currently learning React.js
 
 ### Skills
